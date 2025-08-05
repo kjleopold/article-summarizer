@@ -2,12 +2,14 @@
 
 # Python virtual environment folder
 .venv/
+.env
 
 # Visual Studio Code settings and workspace folder
 .vscode/
 
 # Compiled Python files
 __pycache__/
+get_spotify_token.py
 
 # macOS system files
 .DS_Store
