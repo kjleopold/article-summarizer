@@ -13,6 +13,7 @@ get_spotify_token.py
 my_streaming_data.py
 token_cache.json
 spotify_auth.py
+.cache
 
 # macOS system files
 .DS_Store
