@@ -123,3 +123,7 @@ spacy
 beautifulsoup4
 matplotlib
 spacytextblob
+lyricsgenius
+spotipy
+langdetect
+python-dotenv
