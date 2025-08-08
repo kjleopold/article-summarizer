@@ -25,7 +25,7 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 13) Thoughtful answer based on summaries: 1 pt
 
 ## Objective
-Access the Spotify API using OAuth authentication to retrieve information from a selected playlist, Top Hits 2025. Extract and format the top 10 tracks from the returned JSON data and print them as a list. Then, use the Genius API with authentication to pull lyrics from one of the top 10 songs and print a snippet of those lyrics. Finally, perform sentiment analysis on the lyrics using both token-based and lemma-based approaches, generate summaries for each, print their polarity scores, and discuss the results.
+Access the Spotify API using OAuth authentication to retrieve information from a selected playlist. Extract and format the top 10 tracks from the returned JSON data and print them as a list. Then, use the Genius API with authentication to pull lyrics from one of the top 10 songs and print a snippet of those lyrics. Finally, perform sentiment analysis on the lyrics using both token-based and lemma-based approaches, generate summaries for each, print their polarity scores, and discuss the results.
 
 ### Step 1: Fork the base repo and copy to local machine
 * Fork [Base Repository](https://github.com/wmnlp-materials/article-summarizer)
