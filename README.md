@@ -76,7 +76,8 @@ def get_token(scope="user-library-read"):
   * To the function for the Spotify API from the saved .env
 ```
 from get_spotify_token import get_token
-    `ACCESS_TOKEN = get_token()
+
+ACCESS_TOKEN = get_token()
 ```
 
   * Same for Genius API
