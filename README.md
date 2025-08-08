@@ -73,15 +73,15 @@ def get_token(scope="user-library-read"):
     return token_info
 ```
 
-  * To the function for the Spotify API from the saved .env
-```
+  * To call the function for the Spotify API from the saved `.env`
+```python
 from get_spotify_token import get_token
 
 ACCESS_TOKEN = get_token()
 ```
 
-  * Same for Genius API
-```
+  * To call the funcion for the Genius API
+```python
 # Get lyrics for a top 10 song
 from dotenv import load_dotenv
 
